@@ -6,6 +6,9 @@
 
 <div align="center">
   <h3>
+    <a href="https://mkdirwilson.github.io/dev-challenges/404-not-found/">
+      Demo
+    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
