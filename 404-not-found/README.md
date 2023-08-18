@@ -6,9 +6,6 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
@@ -42,8 +39,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub: [@your-github-username](https://{github.com/mkdirwilson})
-- Twitter: [@your-twitter-username](https://{twitter.com/sceniusPT})
+- GitHub: [@mkdirwilson](https://{github.com/mkdirwilson})
+- Twitter: [@sceniusPT](https://{twitter.com/sceniusPT})
 
 The challenge name is "404 Not Found."
 
