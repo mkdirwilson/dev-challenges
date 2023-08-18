@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](/Users/wilson/dev-challenges/404-not-found/images/screenshot.png)
+![screenshot](https://github.com/mkdirwilson/dev-challenges/blob/main/404-not-found/images/screenshot.png?raw=true)
 
 ### Built With
 
